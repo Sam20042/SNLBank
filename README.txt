@@ -11,7 +11,7 @@ or credit card. Once you purchase with a card, it will go into the balance that 
 has a balance in accounts that is related to it. So once a purchase is made, that account should have money withdrawn from it.
 
 Run:
-To run use the command java -jar NSL.jar
+To run use the command java -cp ojdbc11.jar:./ NSL
 
 
 Here are some customer ids that can be used to test whenever it asks for a user id:
