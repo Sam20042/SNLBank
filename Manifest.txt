@@ -1,0 +1,2 @@
+Main-class: NSL
+Class-Path: ojdbc11.jar

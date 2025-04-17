@@ -1,0 +1,2 @@
+Main-class: smd226
+Class-Path: ojdbc11.jar
