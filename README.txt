@@ -12,6 +12,8 @@ has a balance in accounts that is related to it. So once a purchase is made, tha
 
 Run:
 To run use the command java -cp ojdbc11.jar:./ NSL
+If not working run:
+jar cfmv Capacity.jar Manifest.txt Capacity.class  //making sure that the paths for each file are correct from where you are running the command, and add additional classes at the end of the line if need be.
 
 
 Here are some customer ids that can be used to test whenever it asks for a user id:
